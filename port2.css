@@ -1,8 +1,20 @@
 #e{
     color:blue;
+    display:flex;
+    justify-content:space-around;
 }
 #z{
     background-color:red;
     font-size:50px;
 }
-#a
+#a{
+    background-color:#21A689;
+    font-size:20px;
+}
+#share{
+    background:red;
+    color:blue;
+    display:flex;
+    justify-content:space-around;
+    font-size:22px;
+}
