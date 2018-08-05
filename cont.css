@@ -1,4 +1,7 @@
-#page3{
+#end{
     display:flex;
     justify-content:space-around;
+}
+body{
+    background-color:#1F27CF;
 }
