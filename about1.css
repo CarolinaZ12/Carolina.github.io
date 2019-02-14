@@ -1,8 +1,4 @@
-h2{
-    display:flex;
-    justify-content:space-around;
-}
-#note{
+#am, #buttonHome, #note{
     display:flex;
     justify-content:center;
 }
