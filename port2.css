@@ -7,15 +7,19 @@
     background-color:red;
     font-size:50px;
 }
-#a{
+#a,#w,#all,#rps,#quiz,#playMusic,#fanpage{
     background-color:#21A689;
+    text-align:center;
     font-size:20px;
 }
 #share{
     background:red;
+    text-align:center;
     color:blue;
     display:flex;
     justify-content:space-around;
     font-size:22px;
 }
-
+body{
+       background-image: url(sparkly.gif);
+}

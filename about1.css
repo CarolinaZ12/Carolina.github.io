@@ -1,7 +1,14 @@
-#am, #buttonHome, #note{
+#am, #buttonHome,#b,#c,#d,#e,#a{
     display:flex;
     justify-content:center;
 }
 .c{
-    color:red;
+    color:black;
+    font-size:45px;
+}
+#f{
+    margin-left:450px;
+}
+body{
+    background-image: url(bubble.gif);
 }
