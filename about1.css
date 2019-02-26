@@ -2,13 +2,29 @@
     display:flex;
     justify-content:center;
 }
+
 .c{
     color:black;
     font-size:45px;
 }
+
 #f{
     margin-left:450px;
 }
+
 body{
     background-image: url(bubble.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#a,#b,#c,#d,#e{
+    font-family: 'Oswald', sans-serif;
+    font-size:20px;
+}
+
+
+#am{
+    font-family: 'Anton', sans-serif;
+    font-size:50px;
 }
