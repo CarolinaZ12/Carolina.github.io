@@ -4,16 +4,14 @@
     justify-content:space-around;
 }
 #z{
-    background-color:red;
     font-size:50px;
 }
 #a,#w,#all,#rps,#quiz,#playMusic,#fanpage{
-    background-color:#21A689;
+    color:white;
     text-align:center;
     font-size:20px;
 }
 #share{
-    background:red;
     text-align:center;
     color:blue;
     display:flex;

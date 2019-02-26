@@ -5,3 +5,12 @@
 body{
     background-color:yellow;
 }
+.fin{
+    display:flex;
+    justify-content:center;
+    text-align: center;
+}
+body{
+    text-align:center;
+    background:url("sky.gif");
+}
